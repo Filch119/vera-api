@@ -1,8 +1,1 @@
-# Main Instructions
-Before starting work, read and follow:
-- `*-api/AGENTS.md`
-- `*-android/AGENTS.md`
-- `*-web/AGENTS.md`
-- `*-specs/AGENTS.md`
-- `*-specs/skills/*.md`
-- `*-specs/git-guidelines.md`
+The back-end web application that is used to communicate between the Supabase database API and the web/Android clients for Vera
